@@ -1,0 +1,52 @@
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\bin\Debug\TcddTren.exe.config
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\bin\Debug\TcddTren.exe
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\bin\Debug\TcddTren.pdb
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.csprojResolveAssemblyReference.cache
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.Properties.Resources.resources
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.csproj.GenerateResource.Cache
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.exe
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.pdb
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.frmYonSec.resources
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.frmTutarGoster.resources
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.frmKisiEkle.resources
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.frmKoltukSec.resources
+C:\Users\sema\Desktop\OtomasyonProje\TcddTren\TcddTren\obj\Debug\TcddTren.frmOdemeSec.resources
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\bin\Debug\TcddTren.exe.config
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\obj\Debug\TcddTren.exe
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\obj\Debug\TcddTren.pdb
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\bin\Debug\TcddTren.exe
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\bin\Debug\TcddTren.pdb
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\obj\Debug\TcddTren.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\obj\Debug\TcddTren.Properties.Resources.resources
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\obj\Debug\TcddTren.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\TcddTren\TcddTren\obj\Debug\TcddTren.frmTCDD.resources
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\bin\Debug\TcddTren.exe.config
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\obj\Debug\TcddTren.exe
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\obj\Debug\TcddTren.pdb
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\bin\Debug\TcddTren.exe
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\bin\Debug\TcddTren.pdb
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\obj\Debug\TcddTren.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\obj\Debug\TcddTren.frmTCDD.resources
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\obj\Debug\TcddTren.Properties.Resources.resources
+C:\Users\Pelin\Desktop\TcddTren-Yeni\TcddTren\obj\Debug\TcddTren.csproj.GenerateResource.Cache
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\bin\Debug\TcddTren.exe.config
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.exe
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.pdb
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\bin\Debug\TcddTren.exe
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\bin\Debug\TcddTren.pdb
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.csprojResolveAssemblyReference.cache
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.frmTCDD.resources
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.Properties.Resources.resources
+C:\Users\sema\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\bin\Debug\TcddTren.exe.config
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.exe
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.pdb
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\bin\Debug\TcddTren.exe
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\bin\Debug\TcddTren.pdb
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.frmTCDD.resources
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.Properties.Resources.resources
+C:\Users\Pelin\Desktop\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.csproj.GenerateResource.Cache
+C:\Users\AlpPelin\Desktop\PelinAlpSemaBayri-FinalProjesi\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\bin\Debug\TcddTren.exe.config
+C:\Users\AlpPelin\Desktop\PelinAlpSemaBayri-FinalProjesi\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.exe
+C:\Users\AlpPelin\Desktop\PelinAlpSemaBayri-FinalProjesi\Sema-Bayri-Pelin-Alp-Ödev\Sema Bayri- Pelin Alp-Ödev\TcddTren\obj\Debug\TcddTren.pdb

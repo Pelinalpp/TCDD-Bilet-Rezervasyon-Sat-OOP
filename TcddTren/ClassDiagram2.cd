@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TcddTren.Bilet" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAIgIAAAAAAAAACAAAA=</HashCode>
+      <FileName>Bilet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Engelli" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Engelli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.frmTCDD" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CInIk38CQSgSAoA8/JvIHzz/MwL2Dx7//3/2h4wh/wA=</HashCode>
+      <FileName>frmTCDD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Kisi" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIEA=</HashCode>
+      <FileName>Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.KrediKarti" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KrediKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Nakit" Collapsed="true">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nakit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.OdemeTipi" Collapsed="true">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OdemeTipi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Ogrenci" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Ogrenci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Program" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Rezervasyon" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAACAQAAAAAAAAAAAAAAAEAAAAABAAAA=</HashCode>
+      <FileName>Rezervasyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Sefer" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAACAAAACAAABAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Sefer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Tam" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Tam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Yolcu" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="TcddTren.Kisi" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.5" Y="1.75" />
+        <Point X="4.5" Y="1.626" />
+        <Point X="3.632" Y="1.626" />
+        <Point X="3.632" Y="1.375" />
+        <Point X="4.875" Y="1.375" />
+        <Point X="4.875" Y="3.096" />
+        <Point X="4.5" Y="3.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgQAAAAAAAEBIAAAAAAAAAAACAAAACAAAAAgA=</HashCode>
+      <FileName>Yolcu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Properties.Resources" Collapsed="true">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcddTren.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
